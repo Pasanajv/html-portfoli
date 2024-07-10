@@ -1,2 +1,2 @@
-# html-portfoli
+# html-portfolio
 Web Projects
